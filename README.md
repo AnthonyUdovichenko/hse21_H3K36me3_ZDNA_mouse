@@ -1,5 +1,7 @@
 # hse21_H3K36me3_ZDNA_mouse
 
+UCSC GenomeBrowser session: http://genome.ucsc.edu/s/udovichenko/hse21_H3K36me3_ZDNA_mouse
+
 ## Location of ChIP-seq peaks
 ![alt text](https://github.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/raw/main/images/chip_seeker.H3K36me3_CH12.LX.ENCFF493MPV.mm10.filtered.plotAnnoPie.png)
 ![alt text](https://github.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/raw/main/images/chip_seeker.H3K36me3_CH12.LX.ENCFF827GCP.mm10.filtered.plotAnnoPie.png)
