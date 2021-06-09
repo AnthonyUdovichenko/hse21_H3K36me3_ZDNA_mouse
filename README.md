@@ -2,6 +2,8 @@
 
 *Выполнил Удовиченко Антон*
 
+Сохранённая сессия в UCSC GenomeBrowser: http://genome.ucsc.edu/s/udovichenko/hse21_H3K36me3_ZDNA_mouse
+
 ## Анализ пиков гистоновой метки
 
 ### Гистограммы длин участков
@@ -72,9 +74,23 @@ mm10:
 
 ### Гистограмма длин участков
 
-[merge]()
+[merge](https://github.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/blob/main/images/len_hist.H3K36me3_CH12.LX.merge.mm10.pdf) — 228460 пиков.
 
-Сохранённая сессия в UCSC GenomeBrowser: http://genome.ucsc.edu/s/udovichenko/hse21_H3K36me3_ZDNA_mouse
+### Скриншот с пересечением из геномного браузера
+
+chr1:75,387,967-75,388,496
+
+![image](https://user-images.githubusercontent.com/35216132/121396607-377c4f80-c95c-11eb-9623-350133812902.png)
+
+### Ассоциация пересечений
+
+Количество пиков, которые удалось проассоциировать с генами: 39.
+
+Общее количество уникальных генов: 29.
+
+### GO-анализ
+
+Статистически значимых результатов нет.
 
 ## Location of intersection between ChIP-seq peaks and DNA secondary structures
 ![alt text](https://raw.githubusercontent.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/main/images/chip_seeker.H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.plotAnnoPie.png)
