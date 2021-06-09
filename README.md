@@ -74,7 +74,11 @@ mm10:
 
 ### Гистограмма длин участков
 
-[merge](https://github.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/blob/main/images/len_hist.H3K36me3_CH12.LX.merge.mm10.pdf) — 228460 пиков.
+[intersect](https://github.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/blob/main/images/len_hist.H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.pdf) — 342 пика.
+
+### Где располагаются пересечения
+
+![alt text](https://raw.githubusercontent.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/main/images/chip_seeker.H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.plotAnnoPie.png)
 
 ### Скриншот с пересечением из геномного браузера
 
@@ -91,6 +95,3 @@ chr1:75,387,967-75,388,496
 ### GO-анализ
 
 Статистически значимых результатов нет.
-
-## Location of intersection between ChIP-seq peaks and DNA secondary structures
-![alt text](https://raw.githubusercontent.com/AnthonyUdovichenko/hse21_H3K36me3_ZDNA_mouse/main/images/chip_seeker.H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.plotAnnoPie.png)
