@@ -1,0 +1,12 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01
+Analyzed List:	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Mus musculus - REFLIST (21988)	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (23)	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (expected)	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (over/under)	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (fold Enrichment)	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (raw P-value)	H3K36me3_CH12.LX.intersect_with_mouseZ-DNA1.genes_uniq.txt (FDR)
